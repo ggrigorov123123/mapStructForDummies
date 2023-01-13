@@ -3,7 +3,7 @@
 ## 1.What is MapStruct
 This API contains functions that automatically map between two Java Beans (In our case we are mapping Entities to DTOs and vice versa). With MapStruct, we only need to create the interface, and the library will automatically create a concrete implementation during compile time.
 
-## 2. Dependancy
+## 2. Dependency
 If you’re using Maven to build your own project add the following to your pom.xml to use MapStruct:
 
 ```sh
